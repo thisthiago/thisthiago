@@ -2,8 +2,8 @@
 
 
 [<img align="left" alt="thiago-santos-a55737115 | LinkedIn" width="22px" src="./linkedin.png" />][linkedin]
-[<img align="left" alt="thiago-santos | Gmail" width="22px" src="./gmail.png" />][gmail]
-[<img align="left" alt="thiago-santos | Medium" width="22px" src="./medium.png" />][medium]
+[<img align="left" alt="thiago-santos-a55737115 | Gmail" width="22px" src="./gmail.png" />][gmail]
+[<img align="left" alt="thiago-santos-a55737115 | Medium" width="22px" src="./medium.png" />][medium]
 
 
 <br>
@@ -116,10 +116,9 @@ I've always been a person that if I didn't know how to make something      🔎 
     <img align="right" src="https://badges.pufler.dev/visits/tassiaaccioly/tassiaaccioly?color=yellow" alt="Visitors badge" />
  </a>
 
-[linkedin]: https://www.linkedin.com/in/tassiaaccioly/
-[twitter]: https://www.twitter.com/itsmetherogue/
-[gmail]: mailto:tassia.accioly@gmail.com
-[medium]: https://tassiaaccioly.medium.com/
-[devto]: https://dev.to/tassiaaccioly
+[linkedin]: https://www.linkedin.com/in/thiago-santos-a55737115/
+[gmail]: mailto:this.thiago1@gmail.com
+[medium]: https://this-thiago.medium.com/
+
 
 
