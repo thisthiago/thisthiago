@@ -39,6 +39,8 @@ Oi! Eu sou Thiago Santos e trabalho na área de dados há mais de cinco anos.
 
 ### Stats
 
+<p float="left">
+
 <img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Astronomer Certification for Apache Airflow Fundamentals.png" />
 
 <img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Astronomer Certification DAG Authoring for Apache Airflow.png" />
@@ -48,7 +50,7 @@ Oi! Eu sou Thiago Santos e trabalho na área de dados há mais de cinco anos.
 <img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Desbravador - Deploy no Kubernetes.png" />
 
 <img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Explorador - Containers e Docker.png" />
-
+</p>
 <br>
 <br>
 <br>
