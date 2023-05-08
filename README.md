@@ -27,7 +27,7 @@ Oi! Eu sou Thiago Santos e trabalho na área de dados há mais de cinco anos.
 💻      Eu trabalho atualmente na A3Data como engenheiro de dados [Ink](https://a3data.com.br/)!
 
 
-### **Ultimo post:**
+### **Últimos post:**
 
 📝      Eu gosto de escrever e compartilhar assuntos relacionados a minha área no Medium!
 
@@ -37,10 +37,26 @@ Oi! Eu sou Thiago Santos e trabalho na área de dados há mais de cinco anos.
 
 
 
-### GitHub Stats
+### Stats
 
-![Tassia Accioly's github stats](https://github-readme-stats.vercel.app/api?username=tassiaaccioly&show_icons=true&theme=great-gatsby)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=great-gatsby&layout=compact)
+<img align="left" alt="thiago-santos-a55737115 | badger" width="200px" src="./Astronomer Certification for Apache Airflow Fundamentals.png" />
+
+<img align="left" alt="thiago-santos-a55737115 | badger" width="200px" src="./Astronomer Certification DAG Authoring for Apache Airflow.png" />
+
+<img align="left" alt="thiago-santos-a55737115 | badger" width="200px" src="./Fundamentos Na Lei Geral De Proteção De Dados - LGPDF™.png" />
+
+<img align="left" alt="thiago-santos-a55737115 | badger" width="200px" src="./Desbravador - Deploy no Kubernetes.png" />
+
+<img align="left" alt="thiago-santos-a55737115 | badger" width="200px" src="./Explorador - Containers e Docker.png" />
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 ### My Stack
