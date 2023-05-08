@@ -39,15 +39,15 @@ Oi! Eu sou Thiago Santos e trabalho na área de dados há mais de cinco anos.
 
 ### Stats
 
-<img align="left" alt="thiago-santos-a55737115 | badger" width="200px" src="./Astronomer Certification for Apache Airflow Fundamentals.png" />
+<img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Astronomer Certification for Apache Airflow Fundamentals.png" />
 
-<img align="left" alt="thiago-santos-a55737115 | badger" width="200px" src="./Astronomer Certification DAG Authoring for Apache Airflow.png" />
+<img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Astronomer Certification DAG Authoring for Apache Airflow.png" />
 
-<img align="left" alt="thiago-santos-a55737115 | badger" width="200px" src="./Fundamentos Na Lei Geral De Proteção De Dados - LGPDF™.png" />
+<img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Fundamentos Na Lei Geral De Proteção De Dados - LGPDF™.png" />
 
-<img align="left" alt="thiago-santos-a55737115 | badger" width="200px" src="./Desbravador - Deploy no Kubernetes.png" />
+<img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Desbravador - Deploy no Kubernetes.png" />
 
-<img align="left" alt="thiago-santos-a55737115 | badger" width="200px" src="./Explorador - Containers e Docker.png" />
+<img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Explorador - Containers e Docker.png" />
 
 <br>
 <br>
