@@ -21,7 +21,7 @@ Oi! Eu sou Thiago Santos e trabalho na área de dados há mais de cinco anos.
 
 - Depois, entendi que a parte que mais gostava dessa área era a parte de ETL      ⚙️
 
-- E consequentemente, acabei encaminhad minha careira para a área de engenharia de dados      👷
+- E consequentemente, acabei encaminhando minha careira para a área de engenharia de dados      👷
 
 
 💻      Eu trabalho atualmente na [A3Data](https://a3data.com.br/) como engenheiro de dados !
