@@ -1,7 +1,7 @@
 # Oi, Eu sou Thiago Santos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-[<img align="left" alt="thiago-santos | LinkedIn" width="22px" src="./linkedin.png" />][linkedin]
+[<img align="left" alt="thiago-santos-a55737115 | LinkedIn" width="22px" src="./linkedin.png" />][linkedin]
 [<img align="left" alt="thiago-santos | Gmail" width="22px" src="./gmail.png" />][gmail]
 [<img align="left" alt="thiago-santos | Medium" width="22px" src="./medium.png" />][medium]
 
