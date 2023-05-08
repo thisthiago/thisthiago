@@ -64,6 +64,8 @@ Oi! Eu sou Thiago Santos e trabalho na área de dados há mais de cinco anos.
 <br>
 <br>
 <br>
+<br>
+<br>
 
 
 ### My Stack
