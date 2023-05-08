@@ -36,38 +36,6 @@ Oi! Eu sou Thiago Santos e trabalho na área de dados há mais de cinco anos.
 - [Web Screaping em plataforma de busca de preços]([https://tassiaaccioly.medium.com/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b](https://this-thiago.medium.com/web-screaping-em-plataforma-de-busca-de-pre%C3%A7os-cf78a7bcf9ca))
 
 
-
-### Stats
-
-<p float="left">
-
-<img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Astronomer Certification for Apache Airflow Fundamentals.png" />
-
-<img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Astronomer Certification DAG Authoring for Apache Airflow.png" />
-
-<img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Fundamentos Na Lei Geral De Proteção De Dados - LGPDF™.png" />
-
-<img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Desbravador - Deploy no Kubernetes.png" />
-
-<img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Explorador - Containers e Docker.png" />
-</p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 ### My Stack
 
 #### Languages 📋
@@ -107,7 +75,20 @@ Oi! Eu sou Thiago Santos e trabalho na área de dados há mais de cinco anos.
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
+### Stats
 
+<p float="left">
+
+<img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Astronomer Certification for Apache Airflow Fundamentals.png" />
+
+<img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Astronomer Certification DAG Authoring for Apache Airflow.png" />
+
+<img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Fundamentos Na Lei Geral De Proteção De Dados - LGPDF™.png" />
+
+<img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Desbravador - Deploy no Kubernetes.png" />
+
+<img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Explorador - Containers e Docker.png" />
+</p>
 
 [linkedin]: https://www.linkedin.com/in/thiago-santos-a55737115/
 [gmail]: mailto:this.thiago1@gmail.com
