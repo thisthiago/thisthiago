@@ -53,9 +53,19 @@ Oi! Eu sou Thiago Santos e trabalho na área de dados há mais de cinco anos.
 </p>
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
-<p>
 ### My Stack
 
 #### Languages:
@@ -64,7 +74,7 @@ Oi! Eu sou Thiago Santos e trabalho na área de dados há mais de cinco anos.
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-</p>
+
 #### Application and Data:
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
