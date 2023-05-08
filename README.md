@@ -9,42 +9,31 @@
 <br>
 <br>
 
-![](https://www.codewars.com/users/tassiaaccioly/badges/micro)
 
 
-### **I'm a programmer on beta testing!**
+### **Sou engenheiro de dados!**
 
 
-Hi! My name is Tassia and I've been a programmer for about a year.
+Oi! Eu sou Thiago Santos e trabalho na área de dados há mais de cinco anos.
 
 
-I've always been a person that if I didn't know how to make something      🔎      I'd find out how to do it, so programming has been a perfect fit for me.
+- Iniciei minha carreira na área de BI e Analytcs      🔎      
+
+- Depois, entendi que a parte que mais gostava dessa área era a parte de ETL      ⚙️
+
+- E consequentemente, acabei encaminhad minha careira para a área de engenharia de dados      👷
 
 
-🎓      I have a bachelor's degree on Movies and Audiovisual Studies      🎥      and previously was working as an assistant director for companies such as Netflix, Fox Premium and L'Orèal. I also graduated from Ironhack Bootcamp. I love movies, games, books, rpgs and everything narrative. I've been studying game development as a hobbie. I love being creative and telling stories. 
+💻      Eu trabalho atualmente na A3Data como engenheiro de dados [Ink](https://a3data.com.br/)!
 
 
-💻      I work at Carta as a software engineer on their Design System [Ink](https://ink.carta.com)!
+### **Ultimo post:**
 
+📝      Eu gosto de escrever e compartilhar assuntos relacionados a minha área no Medium!
 
-
-### **If you want to see some highlights of my production so far, check:**
-
-- [Ink Design System](https://ink.carta.com)
-- [Move It - Pomodoro Clock](https://moveit-pomodoro-clock.vercel.app/)
-- [IronNotes](https://github.com/tassiaaccioly/ironnotes-client)
-- [Die Verted - Game](https://tassiaaccioly.github.io/die-verted/) - Version 1.0-alpha 
-- [Find a Flick](https://findaflick.vercel.app) - Find your favorite movies and Series and enjoy trailers and soundtracks in one place!
-- [Spotify Search App](https://spotify-albuns.herokuapp.com/)
-
-
-### **Latest Articles:**
-
-📝      I'm a writer for [JavaScript in Plain English](https://medium.com/javascript-in-plain-english) and [Analytics Vidhya](https://www.analyticsvidhya.com/) over on Medium!
-
-- [5 lessons I learned in my first year as a programmer](https://tassiaaccioly.medium.com/5-lessons-i-learned-in-my-first-year-as-a-programmer-403e2b64cfbe)
-- [7 Tips to make your GitHub profile better](https://tassiaaccioly.medium.com/7-tips-to-make-your-github-profile-better-3913971c357d)
-- [5 Steps to make custom language badges for your profile](https://tassiaaccioly.medium.com/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
+- [Testes unitários em grandes volumes de dados com Great Expectations e Spark]([https://tassiaaccioly.medium.com/5-lessons-i-learned-in-my-first-year-as-a-programmer-403e2b64cfbe](https://this-thiago.medium.com/testes-unit%C3%A1rios-em-grandes-volumes-de-dados-com-great-expectations-e-spark-3d918187d96c))
+- [Great expectations: Descubra como aplicar conceitos de qualidade de dados na prática]([https://tassiaaccioly.medium.com/7-tips-to-make-your-github-profile-better-3913971c357d](https://this-thiago.medium.com/great-expectations-descubra-como-aplicar-conceitos-de-qualidade-de-dados-na-pr%C3%A1tica-ee839d5ae73f))
+- [Web Screaping em plataforma de busca de preços]([https://tassiaaccioly.medium.com/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b](https://this-thiago.medium.com/web-screaping-em-plataforma-de-busca-de-pre%C3%A7os-cf78a7bcf9ca))
 
 
 
