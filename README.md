@@ -31,9 +31,9 @@ Oi! Eu sou Thiago Santos e trabalho na área de dados há mais de cinco anos.
 
 📝      Eu gosto de escrever e compartilhar assuntos relacionados a minha área no Medium!
 
-- [Testes unitários em grandes volumes de dados com Great Expectations e Spark]([https://tassiaaccioly.medium.com/5-lessons-i-learned-in-my-first-year-as-a-programmer-403e2b64cfbe](https://this-thiago.medium.com/testes-unit%C3%A1rios-em-grandes-volumes-de-dados-com-great-expectations-e-spark-3d918187d96c))
-- [Great expectations: Descubra como aplicar conceitos de qualidade de dados na prática]([https://tassiaaccioly.medium.com/7-tips-to-make-your-github-profile-better-3913971c357d](https://this-thiago.medium.com/great-expectations-descubra-como-aplicar-conceitos-de-qualidade-de-dados-na-pr%C3%A1tica-ee839d5ae73f))
-- [Web Screaping em plataforma de busca de preços]([https://tassiaaccioly.medium.com/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b](https://this-thiago.medium.com/web-screaping-em-plataforma-de-busca-de-pre%C3%A7os-cf78a7bcf9ca))
+- [Testes unitários em grandes volumes de dados com Great Expectations e Spark](https://this-thiago.medium.com/testes-unit%C3%A1rios-em-grandes-volumes-de-dados-com-great-expectations-e-spark-3d918187d96c)
+- [Great expectations: Descubra como aplicar conceitos de qualidade de dados na prática](https://this-thiago.medium.com/great-expectations-descubra-como-aplicar-conceitos-de-qualidade-de-dados-na-pr%C3%A1tica-ee839d5ae73f)
+- [Web Screaping em plataforma de busca de preços](https://this-thiago.medium.com/web-screaping-em-plataforma-de-busca-de-pre%C3%A7os-cf78a7bcf9ca)
 
 
 ### My Stack
