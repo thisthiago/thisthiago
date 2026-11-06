@@ -76,6 +76,11 @@ Oi! Eu sou Thiago Santos e trabalho na área de dados há mais de cinco anos.
 ### Stats
 
 <p float="left">
+<img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./AWS Certified Cloud Practitioner.png" />
+
+<img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./AWS Data Lakehouse Demonstrated.png" />
+
+<img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./AWS Incident Response Demonstrated.png" />
 
 <img align="left" alt="thiago-santos-a55737115 | badger" width="150px" src="./Astronomer Certification for Apache Airflow Fundamentals.png" />
 
